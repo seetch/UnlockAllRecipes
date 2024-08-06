@@ -1,0 +1,6 @@
+name: UnlockAllRecipes
+version: '${project.version}'
+main: me.seetch.unlockallrecipes.UnlockAllRecipes
+api-version: '1.20'
+author: seetch
+description: Unlocks all available recipes on join.
